@@ -32,7 +32,7 @@ jobs:
     timeout-minutes: 5
     env:
       # Change the posting weekday without changing the cron expression.
-      POST_DAY: 'Monday'
+      POST_DAY: 'Friday'
       TIMEZONE: 'Europe/London'
       # One or two comma-separated values: Easy, Medium, Hard.
       DIFFICULTIES: 'Easy,Medium'
