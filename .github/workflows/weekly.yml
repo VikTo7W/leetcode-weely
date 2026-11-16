@@ -37,7 +37,7 @@ jobs:
       # One or two comma-separated values: Easy, Medium, Hard.
       DIFFICULTIES: 'Easy,Medium'
       # Applied to every difficulty: 2 means 2 Easy + 2 Medium above.
-      QUESTIONS_PER_DIFFICULTY: '2'
+      QUESTIONS_PER_DIFFICULTY: '1'
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
     steps:
