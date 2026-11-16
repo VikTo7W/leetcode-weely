@@ -1,0 +1,67 @@
+name: Weekly LeetCode Challenge
+
+on:
+  # The first push that adds this workflow posts immediately. Once state.json
+  # exists, later edits to this file do not cause an extra post.
+  push:
+    paths:
+      - '.github/workflows/weekly.yml'
+  schedule:
+    # Check daily at 18:30 London time; Python posts only on POST_DAY.
+    - cron: '30 18 * * *'
+      timezone: 'Europe/London'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Preview without posting or advancing state'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: leetcode-weekly-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  send:
+    # A workflow added on a feature branch must not initialize the live rotation.
+    if: github.event_name != 'push' || github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      # Change the posting weekday without changing the cron expression.
+      POST_DAY: 'Monday'
+      TIMEZONE: 'Europe/London'
+      # One or two comma-separated values: Easy, Medium, Hard.
+      DIFFICULTIES: 'Easy,Medium'
+      # Applied to every difficulty: 2 means 2 Easy + 2 Medium above.
+      QUESTIONS_PER_DIFFICULTY: '2'
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || false }}
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A queued run should see state committed by the preceding run.
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Select and post weekly problems
+        run: python main.py
+      - name: Persist progression
+        run: |
+          if [ ! -f state.json ]; then
+            echo 'No state file to persist.'
+            exit 0
+          fi
+          git add state.json
+          if git diff --cached --quiet; then
+            echo 'No state change to persist.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Advance LeetCode challenge state [skip ci]'
+          git push origin "HEAD:${GITHUB_REF_NAME}"

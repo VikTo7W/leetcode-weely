@@ -1,0 +1,1160 @@
+{
+  "Arrays & Hashing": {
+    "Easy": [
+      {
+        "title": "Concatenation of Array",
+        "slug": "concatenation-of-array"
+      },
+      {
+        "title": "Contains Duplicate",
+        "slug": "contains-duplicate"
+      },
+      {
+        "title": "Valid Anagram",
+        "slug": "valid-anagram"
+      },
+      {
+        "title": "Two Sum",
+        "slug": "two-sum"
+      },
+      {
+        "title": "Longest Common Prefix",
+        "slug": "longest-common-prefix"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Group Anagrams",
+        "slug": "group-anagrams"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "slug": "top-k-frequent-elements"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "slug": "product-of-array-except-self"
+      },
+      {
+        "title": "Valid Sudoku",
+        "slug": "valid-sudoku"
+      },
+      {
+        "title": "Longest Consecutive Sequence",
+        "slug": "longest-consecutive-sequence"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "First Missing Positive",
+        "slug": "first-missing-positive"
+      },
+      {
+        "title": "Count of Range Sum",
+        "slug": "count-of-range-sum"
+      },
+      {
+        "title": "Shortest Palindrome",
+        "slug": "shortest-palindrome"
+      },
+      {
+        "title": "Longest Duplicate Substring",
+        "slug": "longest-duplicate-substring"
+      },
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "slug": "count-of-smaller-numbers-after-self"
+      }
+    ]
+  },
+  "Two Pointers": {
+    "Easy": [
+      {
+        "title": "Reverse String",
+        "slug": "reverse-string"
+      },
+      {
+        "title": "Valid Palindrome",
+        "slug": "valid-palindrome"
+      },
+      {
+        "title": "Valid Palindrome II",
+        "slug": "valid-palindrome-ii"
+      },
+      {
+        "title": "Merge Strings Alternately",
+        "slug": "merge-strings-alternately"
+      },
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "slug": "remove-duplicates-from-sorted-array"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Two Sum II - Input Array Is Sorted",
+        "slug": "two-sum-ii-input-array-is-sorted"
+      },
+      {
+        "title": "3Sum",
+        "slug": "3sum"
+      },
+      {
+        "title": "4Sum",
+        "slug": "4sum"
+      },
+      {
+        "title": "Container With Most Water",
+        "slug": "container-with-most-water"
+      },
+      {
+        "title": "Boats to Save People",
+        "slug": "boats-to-save-people"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Trapping Rain Water",
+        "slug": "trapping-rain-water"
+      },
+      {
+        "title": "Find K-th Smallest Pair Distance",
+        "slug": "find-k-th-smallest-pair-distance"
+      },
+      {
+        "title": "Minimum Number of Moves to Make Palindrome",
+        "slug": "minimum-number-of-moves-to-make-palindrome"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "slug": "minimum-number-of-operations-to-make-array-continuous"
+      },
+      {
+        "title": "Maximum Score of a Good Subarray",
+        "slug": "maximum-score-of-a-good-subarray"
+      }
+    ]
+  },
+  "Stack": {
+    "Easy": [
+      {
+        "title": "Baseball Game",
+        "slug": "baseball-game"
+      },
+      {
+        "title": "Valid Parentheses",
+        "slug": "valid-parentheses"
+      },
+      {
+        "title": "Implement Stack using Queues",
+        "slug": "implement-stack-using-queues"
+      },
+      {
+        "title": "Implement Queue using Stacks",
+        "slug": "implement-queue-using-stacks"
+      },
+      {
+        "title": "Remove Outermost Parentheses",
+        "slug": "remove-outermost-parentheses"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Min Stack",
+        "slug": "min-stack"
+      },
+      {
+        "title": "Evaluate Reverse Polish Notation",
+        "slug": "evaluate-reverse-polish-notation"
+      },
+      {
+        "title": "Asteroid Collision",
+        "slug": "asteroid-collision"
+      },
+      {
+        "title": "Daily Temperatures",
+        "slug": "daily-temperatures"
+      },
+      {
+        "title": "Decode String",
+        "slug": "decode-string"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Maximum Frequency Stack",
+        "slug": "maximum-frequency-stack"
+      },
+      {
+        "title": "Largest Rectangle in Histogram",
+        "slug": "largest-rectangle-in-histogram"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "slug": "longest-valid-parentheses"
+      },
+      {
+        "title": "Basic Calculator",
+        "slug": "basic-calculator"
+      },
+      {
+        "title": "Number of Visible People in a Queue",
+        "slug": "number-of-visible-people-in-a-queue"
+      }
+    ]
+  },
+  "Binary Search": {
+    "Easy": [
+      {
+        "title": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "title": "Search Insert Position",
+        "slug": "search-insert-position"
+      },
+      {
+        "title": "Guess Number Higher or Lower",
+        "slug": "guess-number-higher-or-lower"
+      },
+      {
+        "title": "Sqrt(x)",
+        "slug": "sqrtx"
+      },
+      {
+        "title": "First Bad Version",
+        "slug": "first-bad-version"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Search a 2D Matrix",
+        "slug": "search-a-2d-matrix"
+      },
+      {
+        "title": "Koko Eating Bananas",
+        "slug": "koko-eating-bananas"
+      },
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "slug": "capacity-to-ship-packages-within-d-days"
+      },
+      {
+        "title": "Find Minimum in Rotated Sorted Array",
+        "slug": "find-minimum-in-rotated-sorted-array"
+      },
+      {
+        "title": "Search in Rotated Sorted Array",
+        "slug": "search-in-rotated-sorted-array"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Split Array Largest Sum",
+        "slug": "split-array-largest-sum"
+      },
+      {
+        "title": "Median of Two Sorted Arrays",
+        "slug": "median-of-two-sorted-arrays"
+      },
+      {
+        "title": "Find in Mountain Array",
+        "slug": "find-in-mountain-array"
+      },
+      {
+        "title": "Find Minimum in Rotated Sorted Array II",
+        "slug": "find-minimum-in-rotated-sorted-array-ii"
+      },
+      {
+        "title": "Kth Smallest Number in Multiplication Table",
+        "slug": "kth-smallest-number-in-multiplication-table"
+      }
+    ]
+  },
+  "Sliding Window": {
+    "Easy": [
+      {
+        "title": "Contains Duplicate II",
+        "slug": "contains-duplicate-ii"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "slug": "best-time-to-buy-and-sell-stock"
+      },
+      {
+        "title": "Maximum Average Subarray I",
+        "slug": "maximum-average-subarray-i"
+      },
+      {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "slug": "minimum-recolors-to-get-k-consecutive-black-blocks"
+      },
+      {
+        "title": "Defuse the Bomb",
+        "slug": "defuse-the-bomb"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "slug": "longest-substring-without-repeating-characters"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "slug": "longest-repeating-character-replacement"
+      },
+      {
+        "title": "Permutation in String",
+        "slug": "permutation-in-string"
+      },
+      {
+        "title": "Minimum Size Subarray Sum",
+        "slug": "minimum-size-subarray-sum"
+      },
+      {
+        "title": "Find All Anagrams in a String",
+        "slug": "find-all-anagrams-in-a-string"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Minimum Window Substring",
+        "slug": "minimum-window-substring"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "slug": "sliding-window-maximum"
+      },
+      {
+        "title": "Substring with Concatenation of All Words",
+        "slug": "substring-with-concatenation-of-all-words"
+      },
+      {
+        "title": "Shortest Subarray with Sum at Least K",
+        "slug": "shortest-subarray-with-sum-at-least-k"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "slug": "subarrays-with-k-different-integers"
+      }
+    ]
+  },
+  "Linked List": {
+    "Easy": [
+      {
+        "title": "Reverse Linked List",
+        "slug": "reverse-linked-list"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "slug": "merge-two-sorted-lists"
+      },
+      {
+        "title": "Linked List Cycle",
+        "slug": "linked-list-cycle"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "slug": "palindrome-linked-list"
+      },
+      {
+        "title": "Middle of the Linked List",
+        "slug": "middle-of-the-linked-list"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Reorder List",
+        "slug": "reorder-list"
+      },
+      {
+        "title": "Remove Nth Node From End of List",
+        "slug": "remove-nth-node-from-end-of-list"
+      },
+      {
+        "title": "Copy List with Random Pointer",
+        "slug": "copy-list-with-random-pointer"
+      },
+      {
+        "title": "Add Two Numbers",
+        "slug": "add-two-numbers"
+      },
+      {
+        "title": "Reverse Linked List II",
+        "slug": "reverse-linked-list-ii"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "LFU Cache",
+        "slug": "lfu-cache"
+      },
+      {
+        "title": "Merge k Sorted Lists",
+        "slug": "merge-k-sorted-lists"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "slug": "reverse-nodes-in-k-group"
+      },
+      {
+        "title": "Design Skiplist",
+        "slug": "design-skiplist"
+      },
+      {
+        "title": "Design a Text Editor",
+        "slug": "design-a-text-editor"
+      }
+    ]
+  },
+  "Trees": {
+    "Easy": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "slug": "binary-tree-inorder-traversal"
+      },
+      {
+        "title": "Invert Binary Tree",
+        "slug": "invert-binary-tree"
+      },
+      {
+        "title": "Maximum Depth of Binary Tree",
+        "slug": "maximum-depth-of-binary-tree"
+      },
+      {
+        "title": "Balanced Binary Tree",
+        "slug": "balanced-binary-tree"
+      },
+      {
+        "title": "Same Tree",
+        "slug": "same-tree"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Binary Tree Level Order Traversal",
+        "slug": "binary-tree-level-order-traversal"
+      },
+      {
+        "title": "Binary Tree Right Side View",
+        "slug": "binary-tree-right-side-view"
+      },
+      {
+        "title": "Validate Binary Search Tree",
+        "slug": "validate-binary-search-tree"
+      },
+      {
+        "title": "Kth Smallest Element in a BST",
+        "slug": "kth-smallest-element-in-a-bst"
+      },
+      {
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "slug": "construct-binary-tree-from-preorder-and-inorder-traversal"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "slug": "binary-tree-maximum-path-sum"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "slug": "serialize-and-deserialize-binary-tree"
+      },
+      {
+        "title": "Binary Tree Cameras",
+        "slug": "binary-tree-cameras"
+      },
+      {
+        "title": "Vertical Order Traversal of a Binary Tree",
+        "slug": "vertical-order-traversal-of-a-binary-tree"
+      },
+      {
+        "title": "Recover a Tree From Preorder Traversal",
+        "slug": "recover-a-tree-from-preorder-traversal"
+      }
+    ]
+  },
+  "Tries": {
+    "Easy": [],
+    "Medium": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "slug": "implement-trie-prefix-tree"
+      },
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "slug": "design-add-and-search-words-data-structure"
+      },
+      {
+        "title": "Extra Characters in a String",
+        "slug": "extra-characters-in-a-string"
+      },
+      {
+        "title": "Replace Words",
+        "slug": "replace-words"
+      },
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "slug": "maximum-xor-of-two-numbers-in-an-array"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Word Search II",
+        "slug": "word-search-ii"
+      },
+      {
+        "title": "Stream of Characters",
+        "slug": "stream-of-characters"
+      },
+      {
+        "title": "Concatenated Words",
+        "slug": "concatenated-words"
+      },
+      {
+        "title": "Palindrome Pairs",
+        "slug": "palindrome-pairs"
+      },
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "slug": "maximum-xor-with-an-element-from-array"
+      }
+    ]
+  },
+  "Backtracking": {
+    "Easy": [
+      {
+        "title": "Binary Watch",
+        "slug": "binary-watch"
+      },
+      {
+        "title": "Sum of All Subset XOR Totals",
+        "slug": "sum-of-all-subset-xor-totals"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Subsets",
+        "slug": "subsets"
+      },
+      {
+        "title": "Combination Sum",
+        "slug": "combination-sum"
+      },
+      {
+        "title": "Combinations",
+        "slug": "combinations"
+      },
+      {
+        "title": "Permutations",
+        "slug": "permutations"
+      },
+      {
+        "title": "Word Search",
+        "slug": "word-search"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "N-Queens",
+        "slug": "n-queens"
+      },
+      {
+        "title": "N-Queens II",
+        "slug": "n-queens-ii"
+      },
+      {
+        "title": "Word Break II",
+        "slug": "word-break-ii"
+      },
+      {
+        "title": "Sudoku Solver",
+        "slug": "sudoku-solver"
+      },
+      {
+        "title": "Expression Add Operators",
+        "slug": "expression-add-operators"
+      }
+    ]
+  },
+  "Heap / Priority Queue": {
+    "Easy": [
+      {
+        "title": "Kth Largest Element in a Stream",
+        "slug": "kth-largest-element-in-a-stream"
+      },
+      {
+        "title": "Last Stone Weight",
+        "slug": "last-stone-weight"
+      },
+      {
+        "title": "Relative Ranks",
+        "slug": "relative-ranks"
+      },
+      {
+        "title": "Take Gifts From the Richest Pile",
+        "slug": "take-gifts-from-the-richest-pile"
+      },
+      {
+        "title": "The K Weakest Rows in a Matrix",
+        "slug": "the-k-weakest-rows-in-a-matrix"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "K Closest Points to Origin",
+        "slug": "k-closest-points-to-origin"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "slug": "kth-largest-element-in-an-array"
+      },
+      {
+        "title": "Task Scheduler",
+        "slug": "task-scheduler"
+      },
+      {
+        "title": "Single-Threaded CPU",
+        "slug": "single-threaded-cpu"
+      },
+      {
+        "title": "Reorganize String",
+        "slug": "reorganize-string"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Find Median from Data Stream",
+        "slug": "find-median-from-data-stream"
+      },
+      {
+        "title": "IPO",
+        "slug": "ipo"
+      },
+      {
+        "title": "Smallest Range Covering Elements from K Lists",
+        "slug": "smallest-range-covering-elements-from-k-lists"
+      },
+      {
+        "title": "Sliding Window Median",
+        "slug": "sliding-window-median"
+      },
+      {
+        "title": "Maximum Performance of a Team",
+        "slug": "maximum-performance-of-a-team"
+      }
+    ]
+  },
+  "Graphs": {
+    "Easy": [
+      {
+        "title": "Island Perimeter",
+        "slug": "island-perimeter"
+      },
+      {
+        "title": "Verifying an Alien Dictionary",
+        "slug": "verifying-an-alien-dictionary"
+      },
+      {
+        "title": "Find the Town Judge",
+        "slug": "find-the-town-judge"
+      },
+      {
+        "title": "Find Center of Star Graph",
+        "slug": "find-center-of-star-graph"
+      },
+      {
+        "title": "Find if Path Exists in Graph",
+        "slug": "find-if-path-exists-in-graph"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Number of Islands",
+        "slug": "number-of-islands"
+      },
+      {
+        "title": "Max Area of Island",
+        "slug": "max-area-of-island"
+      },
+      {
+        "title": "Clone Graph",
+        "slug": "clone-graph"
+      },
+      {
+        "title": "Rotting Oranges",
+        "slug": "rotting-oranges"
+      },
+      {
+        "title": "Course Schedule",
+        "slug": "course-schedule"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Word Ladder",
+        "slug": "word-ladder"
+      },
+      {
+        "title": "Bus Routes",
+        "slug": "bus-routes"
+      },
+      {
+        "title": "Shortest Path Visiting All Nodes",
+        "slug": "shortest-path-visiting-all-nodes"
+      },
+      {
+        "title": "Making A Large Island",
+        "slug": "making-a-large-island"
+      },
+      {
+        "title": "Longest Cycle in a Graph",
+        "slug": "longest-cycle-in-a-graph"
+      }
+    ]
+  },
+  "1-D Dynamic Programming": {
+    "Easy": [
+      {
+        "title": "Climbing Stairs",
+        "slug": "climbing-stairs"
+      },
+      {
+        "title": "Min Cost Climbing Stairs",
+        "slug": "min-cost-climbing-stairs"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "slug": "n-th-tribonacci-number"
+      },
+      {
+        "title": "Fibonacci Number",
+        "slug": "fibonacci-number"
+      },
+      {
+        "title": "Divisor Game",
+        "slug": "divisor-game"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "House Robber",
+        "slug": "house-robber"
+      },
+      {
+        "title": "House Robber II",
+        "slug": "house-robber-ii"
+      },
+      {
+        "title": "Coin Change",
+        "slug": "coin-change"
+      },
+      {
+        "title": "Longest Increasing Subsequence",
+        "slug": "longest-increasing-subsequence"
+      },
+      {
+        "title": "Partition Equal Subset Sum",
+        "slug": "partition-equal-subset-sum"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Stone Game III",
+        "slug": "stone-game-iii"
+      },
+      {
+        "title": "Palindrome Partitioning II",
+        "slug": "palindrome-partitioning-ii"
+      },
+      {
+        "title": "Maximum Profit in Job Scheduling",
+        "slug": "maximum-profit-in-job-scheduling"
+      },
+      {
+        "title": "Minimum Difficulty of a Job Schedule",
+        "slug": "minimum-difficulty-of-a-job-schedule"
+      },
+      {
+        "title": "Russian Doll Envelopes",
+        "slug": "russian-doll-envelopes"
+      }
+    ]
+  },
+  "Intervals": {
+    "Easy": [
+      {
+        "title": "Summary Ranges",
+        "slug": "summary-ranges"
+      },
+      {
+        "title": "Teemo Attacking",
+        "slug": "teemo-attacking"
+      },
+      {
+        "title": "Points That Intersect With Cars",
+        "slug": "points-that-intersect-with-cars"
+      },
+      {
+        "title": "Determine if Two Events Have Conflict",
+        "slug": "determine-if-two-events-have-conflict"
+      },
+      {
+        "title": "Count Days Spent Together",
+        "slug": "count-days-spent-together"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Insert Interval",
+        "slug": "insert-interval"
+      },
+      {
+        "title": "Merge Intervals",
+        "slug": "merge-intervals"
+      },
+      {
+        "title": "Non-overlapping Intervals",
+        "slug": "non-overlapping-intervals"
+      },
+      {
+        "title": "Interval List Intersections",
+        "slug": "interval-list-intersections"
+      },
+      {
+        "title": "Minimum Number of Arrows to Burst Balloons",
+        "slug": "minimum-number-of-arrows-to-burst-balloons"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Meeting Rooms III",
+        "slug": "meeting-rooms-iii"
+      },
+      {
+        "title": "Minimum Interval to Include Each Query",
+        "slug": "minimum-interval-to-include-each-query"
+      },
+      {
+        "title": "The Skyline Problem",
+        "slug": "the-skyline-problem"
+      },
+      {
+        "title": "Data Stream as Disjoint Intervals",
+        "slug": "data-stream-as-disjoint-intervals"
+      },
+      {
+        "title": "Count Integers in Intervals",
+        "slug": "count-integers-in-intervals"
+      }
+    ]
+  },
+  "Greedy": {
+    "Easy": [
+      {
+        "title": "Lemonade Change",
+        "slug": "lemonade-change"
+      },
+      {
+        "title": "Assign Cookies",
+        "slug": "assign-cookies"
+      },
+      {
+        "title": "Can Place Flowers",
+        "slug": "can-place-flowers"
+      },
+      {
+        "title": "Maximum Units on a Truck",
+        "slug": "maximum-units-on-a-truck"
+      },
+      {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "slug": "minimum-operations-to-make-the-array-increasing"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Maximum Subarray",
+        "slug": "maximum-subarray"
+      },
+      {
+        "title": "Jump Game",
+        "slug": "jump-game"
+      },
+      {
+        "title": "Jump Game II",
+        "slug": "jump-game-ii"
+      },
+      {
+        "title": "Gas Station",
+        "slug": "gas-station"
+      },
+      {
+        "title": "Partition Labels",
+        "slug": "partition-labels"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Candy",
+        "slug": "candy"
+      },
+      {
+        "title": "Minimum Number of Refueling Stops",
+        "slug": "minimum-number-of-refueling-stops"
+      },
+      {
+        "title": "Patching Array",
+        "slug": "patching-array"
+      },
+      {
+        "title": "Course Schedule III",
+        "slug": "course-schedule-iii"
+      },
+      {
+        "title": "Minimum Number of Taps to Open to Water a Garden",
+        "slug": "minimum-number-of-taps-to-open-to-water-a-garden"
+      }
+    ]
+  },
+  "Advanced Graphs": {
+    "Easy": [],
+    "Medium": [
+      {
+        "title": "Path With Minimum Effort",
+        "slug": "path-with-minimum-effort"
+      },
+      {
+        "title": "Network Delay Time",
+        "slug": "network-delay-time"
+      },
+      {
+        "title": "Min Cost to Connect All Points",
+        "slug": "min-cost-to-connect-all-points"
+      },
+      {
+        "title": "Swim in Rising Water",
+        "slug": "swim-in-rising-water"
+      },
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "slug": "cheapest-flights-within-k-stops"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Reconstruct Itinerary",
+        "slug": "reconstruct-itinerary"
+      },
+      {
+        "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+        "slug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree"
+      },
+      {
+        "title": "Build a Matrix With Conditions",
+        "slug": "build-a-matrix-with-conditions"
+      },
+      {
+        "title": "Critical Connections in a Network",
+        "slug": "critical-connections-in-a-network"
+      },
+      {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "slug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid"
+      }
+    ]
+  },
+  "2-D Dynamic Programming": {
+    "Easy": [
+      {
+        "title": "Pascal's Triangle",
+        "slug": "pascal-s-triangle"
+      },
+      {
+        "title": "Pascal's Triangle II",
+        "slug": "pascal-s-triangle-ii"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Unique Paths",
+        "slug": "unique-paths"
+      },
+      {
+        "title": "Unique Paths II",
+        "slug": "unique-paths-ii"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "slug": "minimum-path-sum"
+      },
+      {
+        "title": "Longest Common Subsequence",
+        "slug": "longest-common-subsequence"
+      },
+      {
+        "title": "Coin Change II",
+        "slug": "coin-change-ii"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Longest Increasing Path in a Matrix",
+        "slug": "longest-increasing-path-in-a-matrix"
+      },
+      {
+        "title": "Distinct Subsequences",
+        "slug": "distinct-subsequences"
+      },
+      {
+        "title": "Burst Balloons",
+        "slug": "burst-balloons"
+      },
+      {
+        "title": "Regular Expression Matching",
+        "slug": "regular-expression-matching"
+      },
+      {
+        "title": "Best Time to Buy and Sell Stock IV",
+        "slug": "best-time-to-buy-and-sell-stock-iv"
+      }
+    ]
+  },
+  "Bit Manipulation": {
+    "Easy": [
+      {
+        "title": "Single Number",
+        "slug": "single-number"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "slug": "number-of-1-bits"
+      },
+      {
+        "title": "Counting Bits",
+        "slug": "counting-bits"
+      },
+      {
+        "title": "Add Binary",
+        "slug": "add-binary"
+      },
+      {
+        "title": "Reverse Bits",
+        "slug": "reverse-bits"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Sum of Two Integers",
+        "slug": "sum-of-two-integers"
+      },
+      {
+        "title": "Bitwise AND of Numbers Range",
+        "slug": "bitwise-and-of-numbers-range"
+      },
+      {
+        "title": "Single Number II",
+        "slug": "single-number-ii"
+      },
+      {
+        "title": "Single Number III",
+        "slug": "single-number-iii"
+      },
+      {
+        "title": "Gray Code",
+        "slug": "gray-code"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Minimum One Bit Operations to Make Integers Zero",
+        "slug": "minimum-one-bit-operations-to-make-integers-zero"
+      },
+      {
+        "title": "Maximum AND Sum of Array",
+        "slug": "maximum-and-sum-of-array"
+      },
+      {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "slug": "minimum-number-of-k-consecutive-bit-flips"
+      },
+      {
+        "title": "Shortest Path to Get All Keys",
+        "slug": "shortest-path-to-get-all-keys"
+      },
+      {
+        "title": "Smallest Sufficient Team",
+        "slug": "smallest-sufficient-team"
+      }
+    ]
+  },
+  "Math & Geometry": {
+    "Easy": [
+      {
+        "title": "Excel Sheet Column Title",
+        "slug": "excel-sheet-column-title"
+      },
+      {
+        "title": "Greatest Common Divisor of Strings",
+        "slug": "greatest-common-divisor-of-strings"
+      },
+      {
+        "title": "Transpose Matrix",
+        "slug": "transpose-matrix"
+      },
+      {
+        "title": "Happy Number",
+        "slug": "happy-number"
+      },
+      {
+        "title": "Plus One",
+        "slug": "plus-one"
+      }
+    ],
+    "Medium": [
+      {
+        "title": "Rotate Image",
+        "slug": "rotate-image"
+      },
+      {
+        "title": "Spiral Matrix",
+        "slug": "spiral-matrix"
+      },
+      {
+        "title": "Set Matrix Zeroes",
+        "slug": "set-matrix-zeroes"
+      },
+      {
+        "title": "Pow(x, n)",
+        "slug": "powx-n"
+      },
+      {
+        "title": "Multiply Strings",
+        "slug": "multiply-strings"
+      }
+    ],
+    "Hard": [
+      {
+        "title": "Max Points on a Line",
+        "slug": "max-points-on-a-line"
+      },
+      {
+        "title": "Rectangle Area",
+        "slug": "rectangle-area"
+      },
+      {
+        "title": "Erect the Fence",
+        "slug": "erect-the-fence"
+      },
+      {
+        "title": "Perfect Rectangle",
+        "slug": "perfect-rectangle"
+      },
+      {
+        "title": "Rectangle Area II",
+        "slug": "rectangle-area-ii"
+      }
+    ]
+  }
+}
