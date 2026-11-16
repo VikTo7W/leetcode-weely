@@ -100,7 +100,7 @@ def current_position(state, key, topics):
     if topic in topics:
         return topics.index(topic), offset, cycle
     # A bank edit can make a saved dual-difficulty topic ineligible. Start at
-    # the first currently eligible topic without discarding the other cursors.
+    # the first currently eligible topic without discarding the other cursors..
     return 0, 0, cycle
 
 
